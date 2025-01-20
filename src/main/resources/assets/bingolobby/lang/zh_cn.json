@@ -13,12 +13,12 @@
   "bingolobby.countdown.minutes": "游戏将在 %s 分钟后开始。",
   "bingolobby.countdown.set": "已开始 %s 分钟 %s 秒的倒计时。",
   "bingolobby.scoreboard.online": "在线玩家：%s",
-  "bingolobby.scoreboard.no_joining": "团队即将开放。",
+  "bingolobby.scoreboard.no_joining": "团队尚未开放。",
   "bingolobby.scoreboard.players_per_team": "每队玩家：%s",
-  "bingolobby.scoreboard.status.info": "状态：%s",
+  "bingolobby.scoreboard.status.info": "身份：%s",
   "bingolobby.scoreboard.status.player": "玩家",
   "bingolobby.scoreboard.status.vip": "VIP",
   "bingolobby.scoreboard.noteam": "无队伍",
   "bingolobby.scoreboard.nogame": "未创建游戏",
-  "bingolobby.scoreboard.countdown": "游戏在 %s:%s 后开始"
+  "bingolobby.scoreboard.countdown": "游戏将在 %s:%s 后开始"
 }
